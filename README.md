@@ -57,7 +57,7 @@ cd frontend
 npm install
 npm start
 ```
-### Or if You have Docker installed 
+### Or if You have Docker installed ignore previuse 2 and do this
 ```
 docker-compose up --build
 docker-compose down
