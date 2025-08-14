@@ -11,11 +11,11 @@ A full-stack web application where users can register, verify email, log in, and
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ---
 
-## 🔑 Authentication & User APIs (`/users/`)
+##  Authentication & User APIs (`/users/`)
 | Endpoint | Method | Description |
 |----------|--------|-------------|
 | `/users/signup/` | `POST` | Register a new user |
