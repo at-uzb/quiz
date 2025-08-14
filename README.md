@@ -30,7 +30,7 @@ A full-stack web application where users can register, verify email, log in, and
 
 ---
 
-## 📝 Quiz APIs (`/quiz/`)
+## Quiz APIs (`/quiz/`)
 | Endpoint | Method | Description |
 |----------|--------|-------------|
 | `/quiz/quizzes/` | `GET` | List all quizzes |
