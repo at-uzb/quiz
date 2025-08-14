@@ -59,9 +59,9 @@ npm start
 ```
 ### Or if You have Docker installed ignore previuse 2 and do this
 ```
-docker-compose up --build
-docker-compose down
-docker-compose down -v
+docker-compose up --build # run
+docker-compose down # to stop
+docker-compose down -v # To stop & remove volumes
 ```
 
 Abdulaziz Toshpulatov – Full Stack Developer )
